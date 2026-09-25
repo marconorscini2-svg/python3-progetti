@@ -1,0 +1,5 @@
+python3 "file prova salvataggio.py"
+python3 esercizio_1.py
+python3 prova.py
+python3 "file salvataggio.py"
+python3 lezione1.py

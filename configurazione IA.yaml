@@ -1,0 +1,9 @@
+{
+  "models": [
+    {
+      "title": "Llama 3.2 Locale",
+      "provider": "ollama",
+      "model": "llama3.2:3b"
+    }
+  ]
+}
