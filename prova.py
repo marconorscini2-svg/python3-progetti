@@ -1,0 +1,1 @@
+print("Ciao, Python è pronto!")
